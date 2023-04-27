@@ -1,0 +1,2 @@
+ex: sudo python3 syn_flooder.py IP -p PORT -a PACKS 
+ex2: sudo python3 syn_flooder.py 1.1.1.1 -p 80 -a 1000
